@@ -1,4 +1,4 @@
-# P2P-Lending
+# P2P-Lending (RAINBOW)
 
 Our project is a decentralised Lending solution for SMEs, Individuals, Cooperatives and Self-Help Groups.
 SMEs are the financial cornerstones for every developing economy. The idea behind these loans would be to Support entrepreneurship , Encourage the people of Africa towards starting their own businesses and attaining Financial independence
