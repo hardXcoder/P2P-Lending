@@ -6,6 +6,8 @@ These loans would be especially geared towards the “Unbanked” people who wou
 We have devised a comprehensive plan where every customer can easily apply for a loan , provided the presence of a working business plan. The solution adopts adopts to various methods of repayments, making it flexible for the customer as well as the investor.
 All the transactional details like the approval of the loan, making payments/purchasing equipments and supplies as well as making repayments on the loans occurs via our Blockchain based banking platform.
 
+
+Link to the presentation :
 (https://he-s3.s3.amazonaws.com/media/sprint/humaniq-global-challenge-1/team/268044/d677cbchumaniq_submission___microloans_platform__1_.pdf)
 
 # Members of the network
