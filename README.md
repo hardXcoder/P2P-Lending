@@ -7,19 +7,19 @@ We have devised a comprehensive plan where every customer can easily apply for a
 All the transactional details like the approval of the loan, making payments/purchasing equipments and supplies as well as making repayments on the loans occurs via the Humaniq's Blockchain based banking platform.
 
 
-Members of the network
+# Members of the network
 
-Engines
+# Engines
 
 Engines hosts the logic and the state of all the loans using them; they can implement any custom rules about interest, due times, cancelable timestamp, or more parameters. However, we recommend following a standard interface and specifications.
 
-Oracle
+# Oracle
 
 Oracles provide equivalencies between our platformm and other currencies; they should implement the oracle.sol interface to be compatible with other members of the Network.
 
 Maintaining a Oracle could be a relatively costly task, so it's a suggested practice add a little fee to deliver the rate.
 
-Contracts
+# Contracts
 
 NanoLoanEngine
 
