@@ -8,7 +8,7 @@ All the transactional details like the approval of the loan, making payments/pur
 
 
 Link to the presentation :
-(https://he-s3.s3.amazonaws.com/media/sprint/humaniq-global-challenge-1/team/268044/d677cbchumaniq_submission___microloans_platform__1_.pdf)
+(https://goo.gl/xfPnhg)
 
 # Members of the network
 
